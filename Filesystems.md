@@ -18,13 +18,13 @@ While the addresses for all files and folders can be written with paths that sta
 > If your current working directory is `/Users/UserName/`, write the absolute paths for the 
 > directories referenced by the following relative paths.
 >
-> `Desktop`
+> `Desktop` /users/UserName/desktop
 >
-> `../Guest/`
+> `../Guest/` /users/guest
 >
-> `~/Library/`
+> `~/Library/` just need to write library, already in directory, can only use ~ when absolute
 >
-> `../../`
+> `../../` goes back to the root, just /
   
 ## Hidden Files and Folders
 
